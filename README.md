@@ -1,0 +1,1 @@
+Simple no template app to add a tag to tickets with attachments.  This tag can then be used in reporting, views, etc.  The tag used can be modified in the app.js file.
