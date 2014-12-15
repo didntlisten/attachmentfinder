@@ -14,13 +14,13 @@
 
   "parameters": [
     {
-      "name" : "\"Tag for tickets with current attachments\"",
+      "name" : "Current Attachments Tag",
       "type" : "text",
       "required" : true
     },
 
     {
-      "name" : "\"Tag for tickets with previous attachments\"",
+      "name" : "Previous Attachments Tag",
       "type" : "text",
       "required" : true
     }

@@ -10,7 +10,7 @@
       var comment = this.comment(),
           ticket = this.ticket();
 
-      var setting2 = this.setting('\"Tag for tickets with previous attachments\"');
+      var setting2 = this.setting('Previous Attachments Tag');
 
       console.log(setting2);
  
@@ -24,7 +24,7 @@
  
       });
  
-      var setting1 = this.setting('\"Tag for tickets with current attachments\"');
+      var setting1 = this.setting('Current Attachments Tag');
  
       console.log(setting1);
  
