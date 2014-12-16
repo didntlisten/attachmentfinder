@@ -6,6 +6,7 @@
     "url": ""
   },
   "defaultLocale": "en",
+  "version": "1.0",
   "noTemplate":true,
   "private": true,
   "location": "ticket_sidebar",
